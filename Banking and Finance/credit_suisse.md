@@ -4,9 +4,6 @@
 Year report is from 2022.  
 Credit Suisse Failed on March 2023.
 
-
-
-
 ---
 
 The Swiss banking giant has been mired in impropriety dating back to 1986 when it helped Philippines dictator Ferdinand Marcos hide millions of dollars stolen from the country.
@@ -34,45 +31,24 @@ Furthermore, in February 2022 Credit Suisse suffered a massive data leak. The in
 - March 2023: U.S. institutions Silicon Valley Bank and Signature Bank fail, setting the global financial system on edge.
 - March 2023: Switzerland’s regulatory authorities allowed the takeover of Credit Suisse by UBS without the shareholder approval of either entity.
 
+---
+
+Assets 531,358
+
+Customer Deposits 233,235
+
+Total Liabilities 486,027
+
+CET1 ratio 14.1
+
+Increase/(decrease) in assets under management (202.1) BILLION
+
+
+NSFR - Net Stable Funding Ratio  
+LCR - Liquidity Credit Ratio
 
 ---
 
-- Net Revenues: CHF 14,921 million (34% decrease from 2021, 1% decrease from 2020).
-- Provision for Credit Losses: CHF 16 million (100% decrease from 2021, 284% increase from 2020).
-- Total Operating Expenses: CHF 18,163 million (5% decrease from 2021, 7% increase from 2020).
-- Income/(Loss) Before Taxes: CHF (3,258) million (443% increase from 2021).
-- Net Income/(Loss) Attributable to Shareholders: CHF (7,293) million (342% increase from 2021).
-- Cost/Income Ratio: 121.7% (Increase from 84.1% in 2021, and 79.6% in 2020).
-- Effective Tax Rate: -124.2% (Decrease from -171.0% in 2021, and increase from 23.1% in 2020).
-- Basic Earnings/(Loss) Per Share: CHF (2.55) (305% increase from 2021).
-- Diluted Earnings/(Loss) Per Share: CHF (2.55) (305% increase from 2021).
-- Return on Equity: -16.1% (Decrease from -3.8% in 2021, and from 5.9% in 2020).
-- Return on Tangible Equity: -17.4% (Decrease from -4.2% in 2021, and from 6.6% in 2020).
-
-Assets and Liabilities:
-- 12. Assets Under Management: CHF 1,293.6 billion (19.9% decrease from 2021, 6.8% increase from 2020).
-
-- Net New Assets/(Net Asset Outflows): CHF (123.2) billion (26.4% decrease from 2021).
-- Total Assets: CHF 531,358 million (30% decrease from 2021, 8% decrease from 2020).
-- Net Loans: CHF 264,165 million (9% decrease from 2021, no change from 2020).
-- Total Shareholders' Equity: CHF 45,129 million (3% increase from 2021, 3% increase from 2020).
-- Tangible Shareholders' Equity: CHF 41,768 million (2% increase from 2021, 7% increase from 2020).
-
-- Capital and Leverage Ratios:
-18. CET1 Ratio: 14.1% (Decrease from 14.4% in 2021, and increase from 12.9% in 2020).
-
-- CET1 Leverage Ratio: 5.4% (Increase from 4.3% in 2021, no change from 2020).
-- Tier 1 Leverage Ratio: 7.7% (Increase from 6.1% in 2021, decrease from 6.3% in 2020).
-
-Share Information:
-- 21. Shares Outstanding: 3,941.3 million (53% increase from 2021, 7% increase from 2020).
-
-- Book Value per Share: CHF 11.45 (33% decrease from 2021, 4% decrease from 2020).
-- Tangible Book Value per Share: CHF 10.60 (33% decrease from 2021, no change from 2020).
-- Market Capitalization: CHF 11,062 million (53% decrease from 2021, 17% decrease from 2020).
-- Dividend per Share: CHF 0.05 (50% decrease from 2021, no change from 2020).
-
-Employee Information:
-26. Number of Employees: 50,480 full-time equivalents (No change from 2021, 2% increase from 2020).
+![image](Assets/Credit%20Suisse/Credit%20Suisse%20Balance%20Sheet%20Funding%20Structure.png)
 
 ---
